@@ -1,5 +1,5 @@
 ## Hola 👋 Soy Diego
-- Estudiante Lic. en Informatica - UNLP
+- Estudiante Lic. en Informática - UNLP
 - Desarollador de software con enfoque en desarrollo backend.
 
 ## 💻 Stack Tecnologico:
