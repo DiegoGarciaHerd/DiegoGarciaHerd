@@ -12,5 +12,5 @@
 - AI / RAG Systems
 
 ### Contacto
-diegogarciaherd@hotmail.com.ar
-https://www.linkedin.com/in/diego-garcia-herd/
+- diegogarciaherd@hotmail.com.ar
+- https://www.linkedin.com/in/diego-garcia-herd/
